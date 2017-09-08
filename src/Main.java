@@ -6,6 +6,8 @@ public class Main {
         System.out.println("New version");
 
         System.out.println("Version 3 복제된버전");
+        System.out.println("히수바보~!");
+
     }
 
 }
